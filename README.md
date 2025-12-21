@@ -56,9 +56,6 @@
   />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Q-C-awa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
 
 <!-- Tech Stack with Wave Animation -->
 <h3 align="center">
