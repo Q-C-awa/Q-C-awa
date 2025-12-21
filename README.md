@@ -28,7 +28,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Q-C-awa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
-  <img width="49%" src="image/images(12)" />
+  <img width="49%" src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(12).jpg" />
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <!-- Profile Image with Glow Effect -->
 <div align="left">
   <img 
-    src="image/images(15)" 
+    src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(15).jpg" 
     width="300"
     alt="profile image"
     align="center"
@@ -47,7 +47,7 @@
 </div>
 <div align="right">
   <img 
-    src="image/images(16)" 
+    src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(16).jpg" 
     width="300"
     alt="profile image"
     align="center"
