@@ -42,14 +42,14 @@
 <div align="center">
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(15).jpg" 
-    width="420"
+    width="410"
     alt="profile image"
     align="left"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(16).jpg" 
-    width="420"
+    width="410"
     alt="profile image"
     align="right"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
