@@ -36,20 +36,20 @@
 
 <!-- Profile Image with Glow Effect -->
 <div align="center">
-  <img width="400" src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(12).jpg" />
+  <img width="700" src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(12).jpg" />
 </div>
 
 <div align="center">
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(15).jpg" 
-    width="400"
+    width="420"
     alt="profile image"
     align="left"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(16).jpg" 
-    width="400"
+    width="420"
     alt="profile image"
     align="right"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
