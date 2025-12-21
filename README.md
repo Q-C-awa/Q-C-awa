@@ -15,8 +15,8 @@
   <a href="https://space.bilibili.com/582755147">
     <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.cngal.org/entries/index/6358">
+    <img src="https://img.shields.io/badge/Cngal-中文galgame资料站-D14836?style=for-the-badge&logo=cngal&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Swimming_in_Code...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
