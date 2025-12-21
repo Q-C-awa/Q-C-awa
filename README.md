@@ -36,7 +36,7 @@
 </div>
 
 <!-- Profile Image with Glow Effect -->
-<div align="left">
+<div align="center">
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(15).jpg" 
     width="300"
@@ -45,7 +45,7 @@
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
 </div>
-<div align="right">
+<div align="center">
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(16).jpg" 
     width="300"
