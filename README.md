@@ -18,7 +18,9 @@
   <a href="https://www.cngal.org/entries/index/6358">
     <img src="https://img.shields.io/badge/Cngal-中文galgame资料站-D14836?style=for-the-badge&logo=cngal&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Swimming_in_Code...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <a href="https://xiaoheihe.cn/community/user/post_list">
+    <img src="https://img.shields.io/badge/小黑盒-D14836?style=for-the-badge&logo=小黑盒&logoColor=white"/>
+  </a>
 </div>
 
 <!-- GitHub Stats with Ocean Theme -->
