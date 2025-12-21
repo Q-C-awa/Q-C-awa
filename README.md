@@ -54,6 +54,11 @@
 </div>
 
 
+
+
+<!-- Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A1D6&height=120&section=footer"/>
+
 <!-- Tech Stack with Wave Animation -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
@@ -77,6 +82,3 @@
   <img src="https://img.shields.io/badge/爱好-二次元-FF69B4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-珊瑚红-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
-
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A1D6&height=120&section=footer"/>
