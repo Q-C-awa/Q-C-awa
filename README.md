@@ -41,23 +41,18 @@
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(15).jpg" 
     width="405"
     alt="profile image"
-    align="left"
+    align="center"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(16).jpg" 
     width="405"
     alt="profile image"
-    align="right"
+    align="center"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
 </div>
 
-
-
-
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A1D6&height=120&section=footer"/>
 
 <!-- Tech Stack with Wave Animation -->
 <h3 align="center">
@@ -82,3 +77,6 @@
   <img src="https://img.shields.io/badge/爱好-二次元-FF69B4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-珊瑚红-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
+
+<!-- Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A1D6&height=120&section=footer"/>
