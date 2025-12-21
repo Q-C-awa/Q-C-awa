@@ -28,7 +28,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Q-C-awa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Q-C-awa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6" />
+  <img width="49%" src="image/images（12）" />
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <!-- Profile Image with Glow Effect -->
 <div align="left">
   <img 
-    src="image/image（15）" 
+    src="image/images（15）" 
     width="300"
     alt="profile image"
     align="center"
@@ -47,7 +47,7 @@
 </div>
 <div align="right">
   <img 
-    src="image/image（16）" 
+    src="image/images（16）" 
     width="300"
     alt="profile image"
     align="center"
@@ -55,10 +55,6 @@
   />
 </div>
 
-<!-- Achievements -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;深海成就 | Deep Sea Achievements
-</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Q-C-awa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
@@ -83,7 +79,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/性格-深邃如海-00A1D6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/性格-可可爱爱-00A1D6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/爱好-二次元-FF69B4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-珊瑚红-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
