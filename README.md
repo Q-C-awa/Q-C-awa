@@ -36,7 +36,7 @@
 
 <!-- Profile Image with Glow Effect -->
 <div align="center">
-  <img width="49%" src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(12).jpg" />
+  <img width="300" src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(12).jpg" />
 </div>
 
 <div align="center">
