@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Cngal-中文galgame资料站-D14836?style=for-the-badge&logo=cngal&logoColor=white"/>
   </a>
   <a href="https://xiaoheihe.cn/community/user/post_list">
-    <img src="https://img.shields.io/badge/小黑盒-D14836?style=for-the-badge&logo=xiaoheihe&logoColor=white"/>
+    <img src="https://img.shields.io/badge/小黑盒-高能玩家聚居地-D14836?style=for-the-badge&logo=xiaoheihe&logoColor=white"/>
   </a>
 </div>
 
