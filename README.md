@@ -44,20 +44,17 @@
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(15).jpg" 
     width="300"
     alt="profile image"
-    align="center"
+    align="left"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
-</div>
-<div align="center">
   <img 
     src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(16).jpg" 
     width="300"
     alt="profile image"
-    align="center"
+    align="right"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
 </div>
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Q-C-awa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
