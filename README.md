@@ -29,7 +29,7 @@
 </h3>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Q-C-awa" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Q-C-awa&show_icons=true&theme=radical" />
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Q-C-awa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6" />
 </div>
 
