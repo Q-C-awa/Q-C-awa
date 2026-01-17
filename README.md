@@ -27,16 +27,6 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">深海数据 | Ocean Stats 
 </h3>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Q-C-awa&show_icons=true&theme=radical" />
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Q-C-awa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-C-awa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1D6" />
-</div>
-
 <!-- Profile Image with Glow Effect -->
 <div align="center">
   <img width="700" src="https://github.com/Q-C-awa/Q-C-awa/blob/main/image/images%20(12).jpg" />
@@ -64,9 +54,9 @@
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-深海蓝-00A1D6?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-海蛇蓝-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ren'py-珊瑚红-F05032?style=for-the-badge&logo=renpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Java-00A1D6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ren'py-Ren'py-F05032?style=for-the-badge&logo=renpy&logoColor=white" />
 </div>
 
 <!-- Interests with Wave Theme -->
